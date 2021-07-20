@@ -24,7 +24,6 @@ An application that allows users to share, update and delete thoughts, react to 
 
 <a name="Usage">#Usage</a>
 
-https://youtu.be/P1lDaUoqh3k
 
     <br />
 
